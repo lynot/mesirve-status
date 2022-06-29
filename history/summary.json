@@ -4,19 +4,19 @@
     "url": "https://mesirve.app",
     "icon": "https://favicons.githubusercontent.com/mesirve.app",
     "slug": "app",
-    "status": "down",
-    "uptime": "97.81%",
-    "uptimeDay": "97.81%",
-    "uptimeWeek": "97.81%",
-    "uptimeMonth": "97.81%",
-    "uptimeYear": "97.81%",
-    "time": 334,
-    "timeDay": 334,
-    "timeWeek": 334,
-    "timeMonth": 334,
-    "timeYear": 334,
+    "status": "up",
+    "uptime": "96.88%",
+    "uptimeDay": "96.88%",
+    "uptimeWeek": "96.88%",
+    "uptimeMonth": "96.88%",
+    "uptimeYear": "96.88%",
+    "time": 332,
+    "timeDay": 332,
+    "timeWeek": 332,
+    "timeMonth": 332,
+    "timeYear": 332,
     "dailyMinutesDown": {
-      "2022-06-29": 25
+      "2022-06-29": 36
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://admin.mesirve.app",
     "icon": "https://favicons.githubusercontent.com/admin.mesirve.app",
     "slug": "admin",
-    "status": "down",
-    "uptime": "97.81%",
-    "uptimeDay": "97.81%",
-    "uptimeWeek": "97.81%",
-    "uptimeMonth": "97.81%",
-    "uptimeYear": "97.81%",
-    "time": 281,
-    "timeDay": 281,
-    "timeWeek": 281,
-    "timeMonth": 281,
-    "timeYear": 281,
+    "status": "up",
+    "uptime": "96.88%",
+    "uptimeDay": "96.88%",
+    "uptimeWeek": "96.88%",
+    "uptimeMonth": "96.88%",
+    "uptimeYear": "96.88%",
+    "time": 273,
+    "timeDay": 273,
+    "timeWeek": 273,
+    "timeMonth": 273,
+    "timeYear": 273,
     "dailyMinutesDown": {
-      "2022-06-29": 25
+      "2022-06-29": 36
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://mesirve.app/api/client/v1/business",
     "icon": "https://favicons.githubusercontent.com/mesirve.app",
     "slug": "api",
-    "status": "down",
-    "uptime": "97.81%",
-    "uptimeDay": "97.81%",
-    "uptimeWeek": "97.81%",
-    "uptimeMonth": "97.81%",
-    "uptimeYear": "97.81%",
+    "status": "up",
+    "uptime": "96.88%",
+    "uptimeDay": "96.88%",
+    "uptimeWeek": "96.88%",
+    "uptimeMonth": "96.88%",
+    "uptimeYear": "96.88%",
     "time": 219,
     "timeDay": 219,
     "timeWeek": 219,
     "timeMonth": 219,
     "timeYear": 219,
     "dailyMinutesDown": {
-      "2022-06-29": 25
+      "2022-06-29": 36
     }
   }
 ]
