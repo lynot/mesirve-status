@@ -15,8 +15,8 @@ sites:
 
 status-website:
   name: MeSirve Status Page
-  # cname: status.mesirve.app
-  baseUrl: /mesirve-status
+  cname: status.mesirve.app/
+#   baseUrl: /mesirve-status
   logoUrl: https://raw.githubusercontent.com/lynot/mesirve-status/master/assets/logo.png
   favicon: https://raw.githubusercontent.com/lynot/mesirve-status/master/assets/logo.png
   theme: night
