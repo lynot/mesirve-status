@@ -14,7 +14,7 @@ sites:
     url: https://mesirve.app/api/client/v1/business
 
 status-website:
-  name: MeSirve Status Page
+  name: MeSirve Status
   cname: status.mesirve.app
 #   baseUrl: /mesirve-status
   logoUrl: https://raw.githubusercontent.com/lynot/mesirve-status/master/assets/logo.png
