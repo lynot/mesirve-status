@@ -21,15 +21,9 @@ status-website:
   favicon: https://raw.githubusercontent.com/lynot/mesirve-status/master/assets/logo.png
   theme: night
   navbar:
-    - title: Status
-      href: /
-    - title: App
-      href: https://mesirve.app
-    - title: Admin
-      href: https://admin.mesirve.app
-    - title: Twitter
-      href: https://twitter.com/mesirveapp
     - title: Telegram
       href: https://t.me/mesirveapp
+    - title: Twitter
+      href: https://twitter.com/mesirveapp
     - title: LinkedIn
       href: https://linkedin.com/company/mesirveapp
