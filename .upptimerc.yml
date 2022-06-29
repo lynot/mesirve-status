@@ -15,7 +15,7 @@ sites:
 
 status-website:
   name: MeSirve Status Page
-  cname: status.mesirve.app/
+  cname: status.mesirve.app
 #   baseUrl: /mesirve-status
   logoUrl: https://raw.githubusercontent.com/lynot/mesirve-status/master/assets/logo.png
   favicon: https://raw.githubusercontent.com/lynot/mesirve-status/master/assets/logo.png
@@ -27,3 +27,6 @@ status-website:
       href: https://twitter.com/mesirveapp
     - title: LinkedIn
       href: https://linkedin.com/company/mesirveapp
+
+i18n:
+  footer: ""
