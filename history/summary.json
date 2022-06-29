@@ -4,19 +4,19 @@
     "url": "https://mesirve.app",
     "icon": "https://favicons.githubusercontent.com/mesirve.app",
     "slug": "app",
-    "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
-    "time": 346,
-    "timeDay": 346,
-    "timeWeek": 346,
-    "timeMonth": 346,
-    "timeYear": 346,
+    "status": "up",
+    "uptime": "89.39%",
+    "uptimeDay": "89.39%",
+    "uptimeWeek": "89.39%",
+    "uptimeMonth": "89.39%",
+    "uptimeYear": "89.39%",
+    "time": 352,
+    "timeDay": 352,
+    "timeWeek": 352,
+    "timeMonth": 352,
+    "timeYear": 352,
     "dailyMinutesDown": {
-      "2022-06-29": 0
+      "2022-06-29": 25
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://admin.mesirve.app",
     "icon": "https://favicons.githubusercontent.com/admin.mesirve.app",
     "slug": "admin",
-    "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
-    "time": 290,
-    "timeDay": 290,
-    "timeWeek": 290,
-    "timeMonth": 290,
-    "timeYear": 290,
+    "status": "up",
+    "uptime": "89.38%",
+    "uptimeDay": "89.38%",
+    "uptimeWeek": "89.38%",
+    "uptimeMonth": "89.38%",
+    "uptimeYear": "89.38%",
+    "time": 294,
+    "timeDay": 294,
+    "timeWeek": 294,
+    "timeMonth": 294,
+    "timeYear": 294,
     "dailyMinutesDown": {
-      "2022-06-29": 0
+      "2022-06-29": 25
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://mesirve.app/api/client/v1/business",
     "icon": "https://favicons.githubusercontent.com/mesirve.app",
     "slug": "api",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 232,
-    "timeDay": 232,
-    "timeWeek": 232,
-    "timeMonth": 232,
-    "timeYear": 232,
+    "status": "up",
+    "uptime": "89.38%",
+    "uptimeDay": "89.38%",
+    "uptimeWeek": "89.38%",
+    "uptimeMonth": "89.38%",
+    "uptimeYear": "89.38%",
+    "time": 242,
+    "timeDay": 242,
+    "timeWeek": 242,
+    "timeMonth": 242,
+    "timeYear": 242,
     "dailyMinutesDown": {
-      "2022-06-29": 0
+      "2022-06-29": 25
     }
   }
 ]
