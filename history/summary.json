@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/mesirve.app",
     "slug": "app",
     "status": "up",
-    "uptime": "96.88%",
-    "uptimeDay": "96.88%",
-    "uptimeWeek": "96.88%",
-    "uptimeMonth": "96.88%",
-    "uptimeYear": "96.88%",
+    "uptime": "98.07%",
+    "uptimeDay": "98.07%",
+    "uptimeWeek": "98.07%",
+    "uptimeMonth": "98.07%",
+    "uptimeYear": "98.07%",
     "time": 332,
     "timeDay": 332,
     "timeWeek": 332,
     "timeMonth": 332,
     "timeYear": 332,
     "dailyMinutesDown": {
-      "2022-06-29": 36
+      "2022-06-29": 25
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/admin.mesirve.app",
     "slug": "admin",
     "status": "up",
-    "uptime": "96.88%",
-    "uptimeDay": "96.88%",
-    "uptimeWeek": "96.88%",
-    "uptimeMonth": "96.88%",
-    "uptimeYear": "96.88%",
+    "uptime": "98.07%",
+    "uptimeDay": "98.07%",
+    "uptimeWeek": "98.07%",
+    "uptimeMonth": "98.07%",
+    "uptimeYear": "98.07%",
     "time": 273,
     "timeDay": 273,
     "timeWeek": 273,
     "timeMonth": 273,
     "timeYear": 273,
     "dailyMinutesDown": {
-      "2022-06-29": 36
+      "2022-06-29": 25
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://favicons.githubusercontent.com/mesirve.app",
     "slug": "api",
     "status": "up",
-    "uptime": "96.88%",
-    "uptimeDay": "96.88%",
-    "uptimeWeek": "96.88%",
-    "uptimeMonth": "96.88%",
-    "uptimeYear": "96.88%",
+    "uptime": "98.07%",
+    "uptimeDay": "98.07%",
+    "uptimeWeek": "98.07%",
+    "uptimeMonth": "98.07%",
+    "uptimeYear": "98.07%",
     "time": 219,
     "timeDay": 219,
     "timeWeek": 219,
     "timeMonth": 219,
     "timeYear": 219,
     "dailyMinutesDown": {
-      "2022-06-29": 36
+      "2022-06-29": 25
     }
   }
 ]
