@@ -1,7 +1,7 @@
 url: https://mesirve.app
-status: up
+status: degraded
 code: 200
-responseTime: 47
-lastUpdated: 2022-07-01T19:49:25.631Z
+responseTime: 340
+lastUpdated: 2022-07-01T19:59:24.467Z
 startTime: Wed Jun 29 2022 04:27:39 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
