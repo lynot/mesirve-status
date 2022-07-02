@@ -5,22 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/mesirve.app",
     "slug": "app",
     "status": "up",
-    "uptime": "82.57%",
-    "uptimeDay": "52.99%",
-    "uptimeWeek": "82.57%",
-    "uptimeMonth": "82.57%",
-    "uptimeYear": "82.57%",
-    "time": 225,
-    "timeDay": 186,
-    "timeWeek": 225,
-    "timeMonth": 225,
-    "timeYear": 225,
-    "dailyMinutesDown": {
-      "2022-07-02": 136,
-      "2022-07-01": 567,
-      "2022-06-30": 23,
-      "2022-06-29": 25
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 228,
+    "timeDay": 192,
+    "timeWeek": 228,
+    "timeMonth": 228,
+    "timeYear": 228,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Admin",
@@ -28,20 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/admin.mesirve.app",
     "slug": "admin",
     "status": "up",
-    "uptime": "98.90%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.90%",
-    "uptimeMonth": "98.90%",
-    "uptimeYear": "98.90%",
-    "time": 184,
-    "timeDay": 71,
-    "timeWeek": 184,
-    "timeMonth": 184,
-    "timeYear": 184,
-    "dailyMinutesDown": {
-      "2022-06-30": 23,
-      "2022-06-29": 25
-    }
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 183,
+    "timeDay": 86,
+    "timeWeek": 183,
+    "timeMonth": 183,
+    "timeYear": 183,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Api",
@@ -49,21 +41,16 @@
     "icon": "https://favicons.githubusercontent.com/mesirve.app",
     "slug": "api",
     "status": "up",
-    "uptime": "82.42%",
-    "uptimeDay": "52.53%",
-    "uptimeWeek": "82.42%",
-    "uptimeMonth": "82.42%",
-    "uptimeYear": "82.42%",
-    "time": 159,
-    "timeDay": 144,
-    "timeWeek": 159,
-    "timeMonth": 159,
-    "timeYear": 159,
-    "dailyMinutesDown": {
-      "2022-07-02": 136,
-      "2022-07-01": 575,
-      "2022-06-30": 23,
-      "2022-06-29": 25
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 161,
+    "timeDay": 148,
+    "timeWeek": 161,
+    "timeMonth": 161,
+    "timeYear": 161,
+    "dailyMinutesDown": {}
   }
 ]
