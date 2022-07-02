@@ -8,28 +8,20 @@ skipHomepageUpdate: false
 sites:
   - name: App
     url: https://mesirve.app
-    maxResponseTime: 60
+    maxResponseTime: 60000
   - name: Admin
     url: https://admin.mesirve.app
-    maxResponseTime: 60
+    maxResponseTime: 60000
   - name: Api
     url: https://mesirve.app/api/client/v1/business
-    maxResponseTime: 60
+    maxResponseTime: 60000
 
 status-website:
   name: MeSirve Status
   cname: status.mesirve.app
-#   baseUrl: /mesirve-status
   logoUrl: https://raw.githubusercontent.com/lynot/mesirve-status/master/assets/logo.png
   favicon: https://raw.githubusercontent.com/lynot/mesirve-status/master/assets/logo.png
   theme: night
-  navbar:
-    - title: Telegram
-      href: https://t.me/mesirveapp
-    - title: Twitter
-      href: https://twitter.com/mesirveapp
-    - title: LinkedIn
-      href: https://linkedin.com/company/mesirveapp
 
 i18n:
   footer: ""
