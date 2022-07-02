@@ -4,19 +4,19 @@
     "url": "https://mesirve.app",
     "icon": "https://favicons.githubusercontent.com/mesirve.app",
     "slug": "app",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.78%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.78%",
     "time": 227,
     "timeDay": 196,
     "timeWeek": 227,
     "timeMonth": 227,
     "timeYear": 227,
     "dailyMinutesDown": {
-      "2022-07-02": 0
+      "2022-07-02": 10
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://admin.mesirve.app",
     "icon": "https://favicons.githubusercontent.com/admin.mesirve.app",
     "slug": "admin",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.78%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.78%",
     "time": 179,
-    "timeDay": 84,
+    "timeDay": 98,
     "timeWeek": 179,
     "timeMonth": 179,
     "timeYear": 179,
     "dailyMinutesDown": {
-      "2022-07-02": 0
+      "2022-07-02": 10
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://mesirve.app/api/client/v1/business",
     "icon": "https://favicons.githubusercontent.com/mesirve.app",
     "slug": "api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 159,
-    "timeDay": 148,
-    "timeWeek": 159,
-    "timeMonth": 159,
-    "timeYear": 159,
+    "status": "up",
+    "uptime": "99.78%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.78%",
+    "time": 158,
+    "timeDay": 146,
+    "timeWeek": 158,
+    "timeMonth": 158,
+    "timeYear": 158,
     "dailyMinutesDown": {
-      "2022-07-02": 0
+      "2022-07-02": 10
     }
   }
 ]
