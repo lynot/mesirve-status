@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/mesirve.app",
     "slug": "app",
     "status": "up",
-    "uptime": "99.78%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.78%",
-    "time": 227,
-    "timeDay": 196,
-    "timeWeek": 227,
-    "timeMonth": 227,
-    "timeYear": 227,
-    "dailyMinutesDown": {
-      "2022-07-02": 10
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 228,
+    "timeDay": 213,
+    "timeWeek": 228,
+    "timeMonth": 228,
+    "timeYear": 228,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Admin",
@@ -25,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/admin.mesirve.app",
     "slug": "admin",
     "status": "up",
-    "uptime": "99.78%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.78%",
-    "time": 179,
-    "timeDay": 98,
-    "timeWeek": 179,
-    "timeMonth": 179,
-    "timeYear": 179,
-    "dailyMinutesDown": {
-      "2022-07-02": 10
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 177,
+    "timeDay": 126,
+    "timeWeek": 177,
+    "timeMonth": 177,
+    "timeYear": 177,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Api",
@@ -45,18 +41,16 @@
     "icon": "https://favicons.githubusercontent.com/mesirve.app",
     "slug": "api",
     "status": "up",
-    "uptime": "99.78%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.78%",
-    "time": 158,
-    "timeDay": 146,
-    "timeWeek": 158,
-    "timeMonth": 158,
-    "timeYear": 158,
-    "dailyMinutesDown": {
-      "2022-07-02": 10
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 156,
+    "timeDay": 96,
+    "timeWeek": 156,
+    "timeMonth": 156,
+    "timeYear": 156,
+    "dailyMinutesDown": {}
   }
 ]
