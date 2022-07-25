@@ -4,19 +4,19 @@
     "url": "https://mesirve.app",
     "icon": "https://favicons.githubusercontent.com/mesirve.app",
     "slug": "app",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 245,
-    "timeDay": 188,
-    "timeWeek": 273,
+    "timeDay": 219,
+    "timeWeek": 274,
     "timeMonth": 245,
     "timeYear": 245,
     "dailyMinutesDown": {
-      "2022-07-25": 0
+      "2022-07-25": 11
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://admin.mesirve.app",
     "icon": "https://favicons.githubusercontent.com/admin.mesirve.app",
     "slug": "admin",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 171,
-    "timeDay": 165,
-    "timeWeek": 178,
-    "timeMonth": 171,
-    "timeYear": 171,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 170,
+    "timeDay": 159,
+    "timeWeek": 175,
+    "timeMonth": 170,
+    "timeYear": 170,
     "dailyMinutesDown": {
-      "2022-07-25": 0
+      "2022-07-25": 11
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://mesirve.app/api/client/v1/business",
     "icon": "https://favicons.githubusercontent.com/mesirve.app",
     "slug": "api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 169,
-    "timeDay": 49,
-    "timeWeek": 194,
-    "timeMonth": 169,
-    "timeYear": 169,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 170,
+    "timeDay": 116,
+    "timeWeek": 201,
+    "timeMonth": 170,
+    "timeYear": 170,
     "dailyMinutesDown": {
-      "2022-07-25": 0
+      "2022-07-25": 11
     }
   }
 ]
