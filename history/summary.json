@@ -6,18 +6,16 @@
     "slug": "app",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 326,
-    "timeDay": 184,
-    "timeWeek": 232,
-    "timeMonth": 245,
+    "timeDay": 225,
+    "timeWeek": 237,
+    "timeMonth": 250,
     "timeYear": 347,
-    "dailyMinutesDown": {
-      "2023-07-26": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Admin",
@@ -31,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 176,
-    "timeDay": 146,
-    "timeWeek": 138,
-    "timeMonth": 135,
+    "timeDay": 323,
+    "timeWeek": 175,
+    "timeMonth": 145,
     "timeYear": 177,
     "dailyMinutesDown": {}
   },
@@ -49,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 285,
-    "timeDay": 219,
-    "timeWeek": 317,
-    "timeMonth": 351,
+    "timeDay": 393,
+    "timeWeek": 344,
+    "timeMonth": 358,
     "timeYear": 315,
     "dailyMinutesDown": {}
   }
