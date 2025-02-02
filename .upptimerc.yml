@@ -13,7 +13,7 @@ sites:
     url: https://admin.mesirve.app
     maxResponseTime: 60000
   - name: Api
-    url: https://mesirve.app/api/client/v1/business
+    url: https://mesirve.app/api/client/v1/docs
     maxResponseTime: 60000
 
 status-website:
