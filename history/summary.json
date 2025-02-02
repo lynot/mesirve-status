@@ -4,19 +4,19 @@
     "url": "https://mesirve.app",
     "icon": "https://icons.duckduckgo.com/ip3/mesirve.app.ico",
     "slug": "app",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 290,
-    "timeDay": 248,
-    "timeWeek": 345,
-    "timeMonth": 307,
+    "uptimeDay": "97.89%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
+    "time": 289,
+    "timeDay": 230,
+    "timeWeek": 326,
+    "timeMonth": 303,
     "timeYear": 291,
     "dailyMinutesDown": {
-      "2025-02-02": 0
+      "2025-02-02": 30
     }
   },
   {
