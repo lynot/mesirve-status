@@ -15,6 +15,9 @@ sites:
   - name: Api
     url: https://mesirve.app/api/client/v1/docs
     maxResponseTime: 60000
+  - name: Beta Api
+    url: https://beta.mesirve.app/api/client/v1/docs
+    maxResponseTime: 60000
 
 status-website:
   name: MeSirve Status
