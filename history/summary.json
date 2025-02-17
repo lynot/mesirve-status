@@ -60,19 +60,19 @@
     "url": "https://beta.mesirve.app/api/client/v1/docs",
     "icon": "https://icons.duckduckgo.com/ip3/beta.mesirve.app.ico",
     "slug": "beta-api",
-    "status": "down",
-    "uptime": "95.83%",
-    "uptimeDay": "95.83%",
-    "uptimeWeek": "95.83%",
-    "uptimeMonth": "95.83%",
-    "uptimeYear": "95.83%",
-    "time": 3572,
-    "timeDay": 3572,
-    "timeWeek": 3572,
-    "timeMonth": 3572,
-    "timeYear": 3572,
+    "status": "up",
+    "uptime": "95.08%",
+    "uptimeDay": "95.08%",
+    "uptimeWeek": "95.08%",
+    "uptimeMonth": "95.08%",
+    "uptimeYear": "95.08%",
+    "time": 3263,
+    "timeDay": 3263,
+    "timeWeek": 3263,
+    "timeMonth": 3263,
+    "timeYear": 3263,
     "dailyMinutesDown": {
-      "2025-02-17": 48
+      "2025-02-17": 57
     }
   }
 ]
