@@ -17,7 +17,7 @@ sites:
     maxResponseTime: 60000
   - name: Beta Api
     url: https://beta.mesirve.app/api/client/v1/docs
-    maxResponseTime: 60000
+    maxResponseTime: 120000
 
 status-website:
   name: MeSirve Status
@@ -28,3 +28,12 @@ status-website:
 
 i18n:
   footer: ""
+
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/5 * * * *"
