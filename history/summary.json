@@ -11,9 +11,9 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 291,
-    "timeDay": 233,
-    "timeWeek": 281,
-    "timeMonth": 282,
+    "timeDay": 283,
+    "timeWeek": 283,
+    "timeMonth": 283,
     "timeYear": 294,
     "dailyMinutesDown": {
       "2025-02-02": 30
@@ -30,9 +30,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 149,
-    "timeDay": 129,
-    "timeWeek": 155,
+    "time": 150,
+    "timeDay": 134,
+    "timeWeek": 150,
     "timeMonth": 158,
     "timeYear": 153,
     "dailyMinutesDown": {}
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 257,
-    "timeDay": 100,
-    "timeWeek": 97,
-    "timeMonth": 156,
-    "timeYear": 221,
+    "time": 256,
+    "timeDay": 80,
+    "timeWeek": 96,
+    "timeMonth": 153,
+    "timeYear": 220,
     "dailyMinutesDown": {}
   },
   {
@@ -61,18 +61,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/beta.mesirve.app.ico",
     "slug": "beta-api",
     "status": "up",
-    "uptime": "94.97%",
-    "uptimeDay": "94.92%",
-    "uptimeWeek": "94.97%",
-    "uptimeMonth": "94.97%",
-    "uptimeYear": "94.97%",
-    "time": 2626,
-    "timeDay": 1112,
-    "timeWeek": 2626,
-    "timeMonth": 2626,
-    "timeYear": 2626,
+    "uptime": "96.48%",
+    "uptimeDay": "95.58%",
+    "uptimeWeek": "96.48%",
+    "uptimeMonth": "96.48%",
+    "uptimeYear": "96.48%",
+    "time": 3203,
+    "timeDay": 2084,
+    "timeWeek": 3203,
+    "timeMonth": 3203,
+    "timeYear": 3203,
     "dailyMinutesDown": {
-      "2025-02-17": 72
+      "2025-02-17": 63
     }
   }
 ]
