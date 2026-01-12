@@ -4,18 +4,19 @@
     "url": "https://mesirve.app",
     "icon": "https://icons.duckduckgo.com/ip3/mesirve.app.ico",
     "slug": "app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 283,
-    "timeDay": 247,
-    "timeWeek": 269,
-    "timeMonth": 246,
-    "timeYear": 270,
+    "time": 289,
+    "timeDay": 1812,
+    "timeWeek": 657,
+    "timeMonth": 344,
+    "timeYear": 279,
     "dailyMinutesDown": {
+      "2026-01-12": 0,
       "2025-02-02": 30
     }
   },
@@ -42,17 +43,19 @@
     "url": "https://mesirve.app/api/client/v1/docs",
     "icon": "https://icons.duckduckgo.com/ip3/mesirve.app.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 164,
-    "timeDay": 67,
-    "timeWeek": 71,
-    "timeMonth": 127,
-    "timeYear": 147,
-    "dailyMinutesDown": {}
+    "timeDay": 150,
+    "timeWeek": 91,
+    "timeMonth": 131,
+    "timeYear": 148,
+    "dailyMinutesDown": {
+      "2026-01-12": 0
+    }
   }
 ]
