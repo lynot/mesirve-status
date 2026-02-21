@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 281,
-    "timeDay": 312,
-    "timeWeek": 257,
-    "timeMonth": 275,
-    "timeYear": 277,
+    "timeDay": 118,
+    "timeWeek": 251,
+    "timeMonth": 272,
+    "timeYear": 276,
     "dailyMinutesDown": {
       "2026-01-12": 26
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 167,
-    "timeDay": 152,
-    "timeWeek": 186,
-    "timeMonth": 189,
+    "timeDay": 194,
+    "timeWeek": 193,
+    "timeMonth": 187,
     "timeYear": 173,
     "dailyMinutesDown": {}
   },
@@ -43,16 +43,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mesirve.app.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 159,
-    "timeDay": 232,
-    "timeWeek": 166,
-    "timeMonth": 155,
-    "timeYear": 146,
+    "timeDay": 45,
+    "timeWeek": 165,
+    "timeMonth": 148,
+    "timeYear": 145,
     "dailyMinutesDown": {
       "2026-01-12": 26
     }
